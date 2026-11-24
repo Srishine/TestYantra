@@ -1,0 +1,10 @@
+api/MailTmTest$MailTmTestData.class
+tests/bdd/steps/PersonalDataStepdef.class
+api/MailTmTest.class
+tests/bdd/RunCucumberTest.class
+data/RegistrationTestData.class
+data/PlayerData$UserData.class
+tests/bdd/steps/RegistrationStepsdef.class
+tests/bdd/steps/LoginPageStepdef.class
+data/PlayerData.class
+tests/bdd/hooks/BrowserHooks.class

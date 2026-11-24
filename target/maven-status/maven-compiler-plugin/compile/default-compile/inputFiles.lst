@@ -1,0 +1,15 @@
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/api/MailTmClient.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/api/Mailbox.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/base/DriverFactory.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/config/ConfigReader.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/constants/FrameworkConstants.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/pages/BasePage.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/pages/HomePage.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/pages/LoginPage.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/pages/MailTmPage.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/pages/PersonalDataPage.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/pages/RegistrationPage.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/utils/JsonUtils.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/utils/ScreenshotUtils.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/utils/ScrollUtils.java
+/Users/vivek/Downloads/frame/GameTwistAutomationFramework/src/main/java/utils/WaitUtils.java

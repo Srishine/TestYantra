@@ -1,0 +1,17 @@
+api/MailTmClient$MailMessage.class
+api/Mailbox.class
+utils/ScreenshotUtils.class
+pages/HomePage.class
+pages/RegistrationPage.class
+pages/BasePage.class
+api/MailTmClient$RateLimitedException.class
+constants/FrameworkConstants.class
+base/DriverFactory.class
+pages/MailTmPage.class
+utils/ScrollUtils.class
+utils/WaitUtils.class
+config/ConfigReader.class
+utils/JsonUtils.class
+pages/PersonalDataPage.class
+pages/LoginPage.class
+api/MailTmClient.class

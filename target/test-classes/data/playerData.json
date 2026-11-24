@@ -1,0 +1,25 @@
+
+{
+  "users": [
+    {
+  "EmailField": "Test123@g",
+  "NicknameField":"Test",
+  "PasswordField":"Test",
+  "DayField":"Test",
+  "MonthField":"Test",
+  "YearField":"Test"
+   },
+ {
+  "EmailField": "Test",
+  "NicknameField":"Test",
+  "PasswordField":"Test",
+  "DayField":"Test",
+  "MonthField":"Test",
+  "YearField":"Test"
+   }
+  ]
+}
+
+
+  
+
